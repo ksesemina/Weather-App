@@ -39,7 +39,7 @@ cd build
 - Запустить CMake
 ```
 cmake ..
-makee
+make
 ```
 - Запустить программу
 ```
